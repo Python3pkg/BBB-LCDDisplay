@@ -1,6 +1,6 @@
 # BBB-LCDDisplay
 School assignment for Robotic Applied in ECAM Brussels.
-nstallatio
+
 Le but du laboratoire de gestion des périphériques étant de créer une librairie
 python pour la gestion de différents périphériques liés à la Beaglebone Black.
 
