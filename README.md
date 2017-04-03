@@ -30,7 +30,7 @@ git clone https://github.com/JonathanPetit/BBB-LCDDisplay.git
 Différentes class sont présentes dans la librairie, mais toutes ne sont pas complètement
 terminé et donc ne peuvent pas toutes servir. Les disponibles sont cochées:
 
-- [ ] BBB_GPIO
+- [x] BBB_GPIO
 - [ ] I2C
 - [ ] Servo
 
