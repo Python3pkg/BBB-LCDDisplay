@@ -1,5 +1,5 @@
 import os
-from .utils import *
+from utils import *
 
 """
 Usage: from BBB-LCDDisplay import BBB_GPIO

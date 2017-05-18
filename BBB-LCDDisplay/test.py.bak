@@ -1,6 +1,6 @@
-from .servo import *
-from .i2c import *
-from .gpio import *
+from servo import *
+from i2c import *
+from gpio import *
 
 import time
 
